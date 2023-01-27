@@ -2,7 +2,6 @@
 
 ### Beginner Frontend - разработчик
 #
-
 #### Стремлюсь перейти в новую профессию. Расширяю кругозор и набиваю руку работая над своими проектами.
 #### Настольные книги: 
 * серия «Вы не знаете JS» Кайл Симпсон, 
@@ -22,6 +21,6 @@
  ### Связаться 🔽
  [![Telegram](https://img.shields.io/badge/-Telegram-<COLOR>?style=for-the-badge&logo=Telegram)](https://t.me/AnnaApk)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=annaApk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaApk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Статистика 🔽
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=annaApk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaApk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
