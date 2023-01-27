@@ -1,16 +1,27 @@
-### Hi there 👋
+## Анна Апханова 👋
 
-<!--
-**AnnaApk/AnnaApk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Beginner Frontend - разработчик
+#
 
-Here are some ideas to get you started:
+#### Стремлюсь перейти в новую профессию. Расширяю кругозор и набиваю руку работая над своими проектами.
+#### Настольные книги: 
+* серия «Вы не знаете JS» Кайл Симпсон, 
+* «Выразительный JavaScript» Марейн Хавербеке, 
+* https://learn.javascript.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Стэк 🔽
+
+![HTML](https://img.shields.io/badge/-HTML-<COLOR>?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-<COLOR>?style=for-the-badge&logo=CSS3&logoColor=blue)
+![SASS](https://img.shields.io/badge/-SASS-<COLOR>?style=for-the-badge&logo=SASS&logoColor=pink)
+![JavaScript](https://img.shields.io/badge/-JavaScript-<COLOR>?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-<COLOR>?style=for-the-badge&logo=React)
+![Git](https://img.shields.io/badge/-Git-<COLOR>?style=for-the-badge&logo=Git)
+
+ ### Связаться 🔽
+ [![Telegram](https://img.shields.io/badge/-Telegram-<COLOR>?style=for-the-badge&logo=Telegram)](https://t.me/AnnaApk)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=annaApk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaApk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
