@@ -17,6 +17,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-<COLOR>?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-<COLOR>?style=for-the-badge&logo=React)
 ![Git](https://img.shields.io/badge/-Git-<COLOR>?style=for-the-badge&logo=Git)
+![TypeScript](https://img.shields.io/badge/-TypeScript-<COLOR>?style=for-the-badge&logo=TypeScript)
+![NextJS](https://img.shields.io/badge/-NextJS-<COLOR>?style=for-the-badge&logo=NextJS)
+
 
  ### Связаться 🔽
  [![Telegram](https://img.shields.io/badge/-Telegram-<COLOR>?style=for-the-badge&logo=Telegram)](https://t.me/AnnaApk)
